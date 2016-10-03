@@ -38,3 +38,5 @@ captures/
 
 # Keystore files
 *.jks
+
+!FT_Upgrade_App.i
